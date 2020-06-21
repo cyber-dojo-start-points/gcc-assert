@@ -10,6 +10,5 @@
      "cyber-dojo.sh"
   ],
   "filename_extension": [ ".c", ".h" ],
-  "max_seconds": 10,
   "tab_size": 4
 }
