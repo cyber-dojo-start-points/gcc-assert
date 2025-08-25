@@ -1,6 +1,6 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:98e787d",
-  "display_name": "C (gcc 14.3.0), assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:6ce3c83",
+  "display_name": "C (gcc 15.2.0), assert",
   "visible_filenames": [
     "hiker.tests.c",
     "hiker.c",
