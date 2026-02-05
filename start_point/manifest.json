@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:6ce3c83",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:2733119",
   "display_name": "C (gcc 15.2.0), assert",
   "visible_filenames": [
     "hiker.tests.c",
