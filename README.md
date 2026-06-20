@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/gcc-assert/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/gcc-assert/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C (gcc 15.2.0), assert"
 ### image_name="[ghcr.io/cyber-dojo-languages/gcc_assert](https://ghcr.io/cyber-dojo-languages/gcc_assert)"
