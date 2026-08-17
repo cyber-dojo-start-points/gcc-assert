@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:2733119",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:a2416e1",
   "display_name": "C (gcc 15.2.0), assert",
   "language": [
     "C (gcc)",
@@ -16,6 +16,7 @@
     "makefile",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".c",
     ".h"
