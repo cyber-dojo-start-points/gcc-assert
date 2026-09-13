@@ -1,0 +1,11 @@
+#include "hiker.h"
+#include <assert.h>
+
+/* The extension was left off, so the makefile's *.c and *.h wildcards both
+   miss this file and gcc never sees it. The assertion is one that would
+   fail, so that a green says it really was not built rather than that it
+   was built and passed. */
+static void the_answer_is_three_digits_long(void)
+{
+    assert(answer() > 99);
+}

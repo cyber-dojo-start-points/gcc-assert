@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 10,
+  "matches": [ "^answer was called$" ],
+  "match_counts": {
+    "^All tests passed$": 1
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "matches": [ "^hiker\\.c:5:5: error: 'retrun' undeclared" ],
+  "max_output_lines": 15
+}

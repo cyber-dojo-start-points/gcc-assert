@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^Assertion failed: answer\\(\\) == 42 \\(hiker\\.tests\\.c: life_the_universe_and_everything: [0-9]+\\)$": 1,
+    "^Assertion failed: ": 1,
+    "^All tests passed$": 0
+  }
+}

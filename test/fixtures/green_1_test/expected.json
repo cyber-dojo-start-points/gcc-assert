@@ -1,0 +1,6 @@
+{
+  "max_output_lines": 10,
+  "match_counts": {
+    "^All tests passed$": 1
+  }
+}

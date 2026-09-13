@@ -1,0 +1,7 @@
+{
+  "matches": [ "Segmentation fault" ],
+  "match_counts": {
+    "^Assertion failed: ": 0,
+    "^All tests passed$": 0
+  }
+}
