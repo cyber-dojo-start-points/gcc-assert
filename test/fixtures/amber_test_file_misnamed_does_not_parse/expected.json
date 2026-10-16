@@ -1,7 +1,7 @@
 {
   "matches": [ "^answer_size\\.tests\\.h:[0-9]+:[0-9]+: error: " ],
   "match_counts": {
-    "^Assertion failed: ": 0,
+    "Assertion .* failed\\.": 0,
     "^All tests passed$": 0
   }
 }

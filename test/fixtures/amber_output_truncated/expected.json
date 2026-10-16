@@ -2,7 +2,7 @@
   "truncated": true,
   "matches": [ "^debug: answer was called, i is 0$" ],
   "match_counts": {
-    "^Assertion failed: ": 0,
+    "Assertion .* failed\\.": 0,
     "^All tests passed$": 0
   }
 }

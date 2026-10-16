@@ -1,7 +1,7 @@
 {
   "matches": [ "error: implicit declaration of function 'ansewr'" ],
   "match_counts": {
-    "^Assertion failed: ": 0,
+    "Assertion .* failed\\.": 0,
     "^All tests passed$": 0
   }
 }

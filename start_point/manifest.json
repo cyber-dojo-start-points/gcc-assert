@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:4a2d3f8",
-  "display_name": "C (gcc 15.2), assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/gcc_assert:72060bb@sha256:cc148524319e9ef5636886bcf0ca9717522a8a2248146d768e484eae240da3d1",
+  "display_name": "C (gcc 16.2.0), assert",
   "language": [
     "C (gcc)",
-    "15.2"
+    "16.2.0"
   ],
   "test_framework": [
     "assert",

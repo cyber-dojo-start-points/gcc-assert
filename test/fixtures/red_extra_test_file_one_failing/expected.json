@@ -1,6 +1,6 @@
 {
   "match_counts": {
-    "^Assertion failed: answer\\(\\) > 99 \\(answer_size\\.tests\\.c: the_answer_is_three_digits_long: [0-9]+\\)$": 1,
+    "^test: answer_size\\.tests\\.c:[0-9]+: the_answer_is_three_digits_long: Assertion `answer\\(\\) > 99' failed\\.$": 1,
     "^All tests passed$": 0
   }
 }
